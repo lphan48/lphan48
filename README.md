@@ -1,4 +1,4 @@
-## 👋 Hi there 👋
+## 👋 Hi there 
 
 ### 🫧 About Me
 - 📚 I am a third year student at Northeastern University majoring in Computer Science and Biology
@@ -9,7 +9,7 @@
 - Java
    - [FloodIt Clone](https://github.com/lphan48/FloodItClone)
 - HTML/CSS
-   - [Personal Site](https://laurenphan.neocities.org/)
+   - [Personal Site (in progress)](https://laurenphan.neocities.org/)
  
 ### 💌 Connect
 <a href="https://www.linkedin.com/in/laurenphan/">
