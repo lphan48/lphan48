@@ -10,6 +10,11 @@
    - [FloodIt Clone](https://github.com/lphan48/FloodItClone)
 - HTML/CSS
    - [Personal Site](https://laurenphan.neocities.org/)
+ 
+### 💌 Connect
+<a href="[https://www.linkedin.com/in/laurenphan/]">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
 
 
