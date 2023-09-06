@@ -8,6 +8,8 @@
 ### 👩‍💻 Projects
 - Java
    - [FloodIt Clone](https://github.com/lphan48/FloodItClone)
+- HTML/CSS
+   - [Personal Site](https://laurenphan.neocities.org/)
   
 
 
