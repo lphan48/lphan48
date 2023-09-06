@@ -7,7 +7,7 @@
 
 ### 👩‍💻 Projects
 - Java
-   - [FloodIt Clone]([https://github.com/vuejs/vue](https://github.com/lphan48/FloodItClone)https://github.com/lphan48/FloodItClone)
+   - [FloodIt Clone](https://github.com/lphan48/FloodItClone)
   
 
 
