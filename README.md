@@ -1,4 +1,3 @@
-## 👋 Hi there 
 ![Alt Text](https://media.tenor.com/6aNDWPF18CkAAAAM/star-tamtl%C4%B1.gif)
 
 ### 🫧 About Me
