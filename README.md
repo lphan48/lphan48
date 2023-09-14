@@ -12,8 +12,6 @@
    - [FloodIt Clone](https://github.com/lphan48/FloodItClone)
    - [Bullet Journal](https://github.com/CS-3500-OOD/pa05-amber-lauren-ria)
    - [Maze Game](https://github.com/lphan48/MazeGame)
-- HTML/CSS
-   - [Personal Site (in progress)](https://laurenphan.neocities.org/)
 - React
    - [NuLondon Faculty Doc Processor](https://github.com/nate-kirschner/nulondon-doc-processing)
  
