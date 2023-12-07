@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Projects
 - HTML/CSS
-   - [Personal Site (in progress)](https://lphan48.github.io/PersonalSite/)
+   - [Personal Site](https://lphan48.github.io/PersonalSite/)
 - Java
    - [FloodIt Clone](https://github.com/lphan48/FloodItClone)
    - [Bullet Journal](https://github.com/CS-3500-OOD/pa05-amber-lauren-ria)
