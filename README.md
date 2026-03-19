@@ -1,7 +1,7 @@
 ![Alt Text](https://media.tenor.com/6aNDWPF18CkAAAAM/star-tamtl%C4%B1.gif)
 
 ### 🫧 About Me
-- 📚 I am a third year student at Northeastern University majoring in Computer Science and Biology
+- 📚 I am a recent gradute from Northeastern University with a BS in Computer Science and Biology
 - 🥟 Outside of class, I like to read, crochet, and try new restaurants with friends
  
 ### 💌 Connect
